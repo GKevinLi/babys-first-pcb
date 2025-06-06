@@ -14,3 +14,12 @@ It'll go on the drone when all the other parts are done.
 - Boot and Reset buttons
 - A whole lotta GPIO pins
   
+<img width="862" alt="image" src="https://github.com/user-attachments/assets/6871f4b1-15d2-44fe-be8e-e0543edd2465" />
+
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/befd4208-ff24-4683-880f-86b273b6a79a" />
+
+## BOM
+
+| Item  | Usage | Source  | Price | Quantity |
+| ----| ----|----|----|----|
+| PCB | This is the project lol | JLCPCB | $135 | 5 (2 assembled)|
