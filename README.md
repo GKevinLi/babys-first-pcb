@@ -22,4 +22,4 @@ It'll go on the drone when all the other parts are done.
 
 | Item  | Usage | Source  | Price | Quantity |
 | ----| ----|----|----|----|
-| PCB | This is the project lol | JLCPCB | $135 | 5 (2 assembled)|
+| PCB | This is the project lol | JLCPCB | $125 | 5 (2 assembled)|
