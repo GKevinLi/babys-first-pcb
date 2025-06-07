@@ -4,6 +4,7 @@ author: "kevin"
 description: "Esp32 dev board / flight controller"
 created_at: "2025-05-26"
 ---
+Total time spent: 22 hours (probably more from time spent researching pre-journal)
 
 # May 26th: Preliminary Research
 
