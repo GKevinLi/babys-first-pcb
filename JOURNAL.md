@@ -4,7 +4,7 @@ author: "kevin"
 description: "Esp32 dev board / flight controller"
 created_at: "2025-05-26"
 ---
-Total time spent: 22 hours (probably more from time spent researching pre-journal)
+Total time spent: 24 hours (probably more from time spent researching pre-journal)
 
 # May 26th: Preliminary Research
 
@@ -85,3 +85,18 @@ Spent a stupid amount of time fixing minor things and adjusting small stuff beca
 basically nothing changed so no screenshot
 
 **Total time spent: 3h**
+
+# June 7th: blblbllblblblblbl
+
+did some bom optimizing and got the material cost from like $125 down to like $110, most of it was due to this one gyro module I was using being insanely overpriced on jlcpcb for no reason, replaced it and did some other adjustment things as well
+
+also added a magnetometer because apparently those are also pretty important in drone flight controllers??? didnt add to much to the cost tho
+
+heres what the pcb looks like now
+
+<img width="698" alt="image" src="https://github.com/user-attachments/assets/d776ad23-389e-42bd-bfb0-6f61b03f313b" />
+
+![image](https://github.com/user-attachments/assets/d296b6aa-5438-4643-97a1-4948059aab43)
+
+
+**Total time spent: 2h**
