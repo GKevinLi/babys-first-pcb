@@ -4,7 +4,7 @@ author: "kevin"
 description: "Esp32 dev board / flight controller"
 created_at: "2025-05-26"
 ---
-Total time spent: 24 hours (probably more from time spent researching pre-journal)
+Total time spent: 26 hours (probably more from time spent researching pre-journal)
 
 # May 26th: Preliminary Research
 
@@ -98,5 +98,13 @@ heres what the pcb looks like now
 
 ![image](https://github.com/user-attachments/assets/d296b6aa-5438-4643-97a1-4948059aab43)
 
+
+**Total time spent: 2h**
+
+# June 8th: datasheets will be the end of me
+
+did bom optimization
+nothing changed
+ahhhhhhhhhhhhhhhhhhhhhh
 
 **Total time spent: 2h**
