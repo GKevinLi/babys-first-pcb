@@ -27,7 +27,7 @@ This is my first circuit board by the way, hopefully I did a good job. I'm plann
 
 | Item  | Usage | Source  | Price | Quantity |
 | ----| ----|----|----|----|
-| PCB | This is the project lol | JLCPCB | $110 | 5 (2 assembled)|
+| PCB | This is the project lol | JLCPCB | $77 | 5 (2 assembled)|
 
 
 (also hack club people if youre reading this here's the extra useless information you wanted me to add. this has gotta be enough by now, please. I've said everything there is needed to be said.)
